@@ -15,9 +15,5 @@ This Python project implements the classic Frog Leap puzzle game, challenging pl
 1. Clone the repository.
 2. Run the Python script in your preferred environment.
 3. Follow on-screen instructions to make moves and solve the puzzle.
-
-## Acknowledgments
-- [Reference link or credits if applicable]
-
-Feel free to customize this template to better suit your project. Add more sections or details as needed!
+   
 
